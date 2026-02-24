@@ -1,7 +1,7 @@
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
 
 
-### 이력
+## 이력
 2023 | DeepDynamic.me ( 딥다이나믹 ) 공동 설립  
 2023 | 경기도 창업지원프로젝트 (우수상) 수상  
 2026 | (MXSH) - 러스트로 작성된 AI 기반 명령어 필터링 및 범용 셸 개발 (https://mxsh.net)  
